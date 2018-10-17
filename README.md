@@ -4,13 +4,13 @@ Unity Project for CSE490
 # Organizational Guidelines:
 ## Assets folder: 
 place files in appropriate folders (Meshes, Textures, Prefabs, etc)
-##Scene Hierarchy: 
+## Scene Hierarchy: 
 place all room objects in the roomObjects gameobject.
 You should nest objects that are tied to one another (such as the tv and the tv stand).
 
 
 
-#H ow to watch they flythrough: 
+# How to watch they flythrough: 
 
 1. hit the play button at the center.
 2. enjoy

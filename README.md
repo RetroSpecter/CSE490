@@ -7,6 +7,8 @@ place files in appropriate folders (Meshes, Textures, Prefabs, etc)
 ## Scene Hierarchy: 
 place all room objects in the roomObjects gameobject.
 You should nest objects that are tied to one another (such as the tv and the tv stand).
+## PostProcessing
+I added the script to the post processing package so that the temperature, saturation, and the vignette can change with the camera movement. You can see the scene changed from normal orange color to very scary blue, black and white color.
 
 
 

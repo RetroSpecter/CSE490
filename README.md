@@ -12,6 +12,7 @@ You should nest objects that are tied to one another (such as the tv and the tv 
 
 # How to watch they flythrough: 
 
+0. Use Unity 2018.1.5 or above to open
 1. hit the play button at the center.
 2. enjoy
 
